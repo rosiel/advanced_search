@@ -245,6 +245,8 @@ Further documentation for this module is available on the
 
 ## Troubleshooting/Issues
 
+* Your view's machine name cannot contain the string `__` (two underscores) or end with an underscore. This can happen if you type a non-alphanumeric character (such as a bracket) as your view name.
+
 Having problems or solved a problem? Check out the Islandora google groups for
 a solution.
 
